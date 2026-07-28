@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **developer** with experience in **HTML, CSS, JavaScript, Python, and C#**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **developer** with experience in **HTML, CSS, JavaScript, Python, C#, and MySQL**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Vue.js, Django, React**
 - 🔭 Working on: **Personal Portfolio Website, Blog Website**
@@ -19,9 +19,12 @@ I'm a passionate **developer** with experience in **HTML, CSS, JavaScript, Pytho
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
+<!-- Comment out when projects are live
 ## Featured Projects 💻
 
 ### [Project 1 Title](project_1_link)
@@ -35,7 +38,7 @@ I'm a passionate **developer** with experience in **HTML, CSS, JavaScript, Pytho
 ![Project 2 Screenshot](project_2_screenshot_url)
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
+-->
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
